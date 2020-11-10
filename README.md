@@ -1,6 +1,6 @@
 <!--START_SECTION:waka-->
 ```text
-Week: 01 November, 2020 - 08 November, 2020
+Week: 02 November, 2020 - 09 November, 2020
 
 Other        8 hrs 39 mins   ███████▒░░░░░░░░░░░░░░░░░   29.03 % 
 Java         6 hrs 57 mins   ██████░░░░░░░░░░░░░░░░░░░   23.34 % 
