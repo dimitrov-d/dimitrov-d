@@ -23,11 +23,11 @@ HTML         2 hrs 55 mins   ███░░░░░░░░░░░░░░
 <img align="left" alt="Javascript" width="155px" src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" />
 <img align="left" alt="Typescript" width="155px" src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" />
 <img align="left" alt="Bootstrap" width="150px" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" />
-<img alt="Bash" width="180px" src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white" />
+<img alt="Unity" width="110px" src="https://img.shields.io/badge/unity%20-%23100000.svg?&style=for-the-badge&logo=unity&logoColor=white" />
 <img align="left" alt="PostgreSQL" width="135px" src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" />
 <img align="left" alt="MySQL" width="113px" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white" />
-<img align="left" alt="Unity" width="110px" src="https://img.shields.io/badge/unity%20-%23100000.svg?&style=for-the-badge&logo=unity&logoColor=white" />
-<img alt="SQLite" width="116px" src="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white" />
+<img align="left" alt="SQLite" width="116px" src="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white" />
+<img alt="Bash" width="180px" src="https://img.shields.io/badge/shell_script%20-%23121011.svg?&style=for-the-badge&logo=gnu-bash&logoColor=white" />
 
 ## Platforms
 
