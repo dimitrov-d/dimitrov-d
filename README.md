@@ -1,7 +1,7 @@
 ## Weekly Summary
 <!--START_SECTION:waka-->
 ```text
-Week: 03 November, 2020 - 10 November, 2020
+Week: 04 November, 2020 - 11 November, 2020
 
 Other        6 hrs 13 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.57 % 
 C#           5 hrs 11 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.17 % 
