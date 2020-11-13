@@ -1,7 +1,7 @@
 ## Weekly Summary
 <!--START_SECTION:waka-->
 ```text
-Week: 04 November, 2020 - 11 November, 2020
+Week: 05 November, 2020 - 12 November, 2020
 
 C#           4 hrs 49 mins   ███████▒░░░░░░░░░░░░░░░░░   28.87 % 
 TypeScript   3 hrs 45 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.47 % 
