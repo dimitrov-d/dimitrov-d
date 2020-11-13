@@ -1,14 +1,6 @@
 ## Weekly Summary
 <!--START_SECTION:waka-->
-```text
-Week: 05 November, 2020 - 12 November, 2020
-
-C#           4 hrs 51 mins   ████████▒░░░░░░░░░░░░░░░░   33.46 % 
-TypeScript   4 hrs 21 mins   ███████▓░░░░░░░░░░░░░░░░░   30.08 % 
-Other        2 hrs 11 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.08 % 
-HTML         1 hr 2 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
-JavaScript   46 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
-```
+<img src="https://github.com/dimitrov-d/dimitrov-d/blob/master/images/stat.svg" alt="Wakatime Activity"/>
 <!--END_SECTION:waka-->
 
 ## Used Tech
