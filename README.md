@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Damjan Dimitrov</h1>
-<h3 align="center">Software Engineer & Web Developer</h3>
+<img src="https://i.imgur.com/DSw6y2s.png"/>
 
 <a href="https://wakatime.com/@0d9bd5fb-c41c-4b77-8843-62f7995d9f07"><img src="https://wakatime.com/badge/user/0d9bd5fb-c41c-4b77-8843-62f7995d9f07.svg" alt="Total time coded since Jul 9 2019" /></a>
 <h3 align="left">Connect with me:</h3>
