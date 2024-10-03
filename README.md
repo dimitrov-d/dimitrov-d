@@ -1,13 +1,3 @@
-<img src="https://i.imgur.com/DSw6y2s.png"/>
-
-<a href="https://wakatime.com/@0d9bd5fb-c41c-4b77-8843-62f7995d9f07"><img src="https://wakatime.com/badge/user/0d9bd5fb-c41c-4b77-8843-62f7995d9f07.svg" alt="Total time coded since Jul 9 2019" /></a>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="mailto:damjandimitrov1@gmail.com" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/1182/PNG/512/1490129331-rounded07_82197.png" alt="damjandimitrov1@gmail.com" height="30" width="40" /></a>
-<a href="https://dev.to/damjand" target="blank"><img align="center" src="https://iconape.com/wp-content/png_logo_vector/cib-dev-to.png" alt="damjand" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/damjan-dimitrov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="damjan-dimitrov" height="30" width="40" /></a>
-</p>
-
 ## Languages and Tools
 
 | Skill Set & Experience | Tech |
